@@ -3,12 +3,12 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/indal-singh/pintrest-clone-app.git
+   git clone https://github.com/Indal-Singh/PasswordGaneratorApp.git
 
 2. Navigate to the project directory:
 
     ```bash
-    cd pinterest-clone-app
+    cd PasswordGaneratorApp
 
 3. Install dependencies:
 
